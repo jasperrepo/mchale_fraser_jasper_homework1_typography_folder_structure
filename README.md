@@ -1,2 +1,6 @@
-# mchale_fraser_jasper_homework1_typography_folder_structure
-Homework 1 for MMED-1056-01
+# fraser_jasper_homework_1
+
+
+Homework 1 for Web deleopment
+
+create website with proper typography elements.
